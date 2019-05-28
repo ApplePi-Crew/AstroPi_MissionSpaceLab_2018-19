@@ -1,5 +1,5 @@
 # ApplePi
-> We are young people from Poland who take part in the Astro Pi Mission Space Lab 2018-2019
+> We are teenagers from Poland who take part in the Astro Pi Mission Space Lab 2018-2019
 
 ## General info
 The main purpose of our experiment is to detect the shoreline in order to show the effects of global warming. We used the OpenCV library for this purpose and with the use of it we analyzed the pictures of Earth's surface. 
